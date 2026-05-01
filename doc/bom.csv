@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0805,2,1uF,
+C3,0805,1,4.7uF/10V,
+C4,0805,1,100nF,
+"R1, R2",0805,2,10k,
+R3,0805,1,39R,
+U2,SOT-23-5,1,TLV74318PDBVR,C485152

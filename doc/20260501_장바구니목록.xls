@@ -1,0 +1,125 @@
+
+		<html xmlns:v='urn:schemas-microsoft-com:vml' xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'>
+		<head></head>
+		
+		<meta http-equiv="Content-Type" content="application/vnd.ms-excel;charset=utf-8">
+		<style>
+		<!--table
+			{mso-displayed-decimal-separator:"\.";
+			mso-displayed-thousand-separator:"\,";}
+		@page
+		{margin:1.0in .75in 1.0in .75in;
+		mso-header-margin:.5in;
+		mso-footer-margin:.5in;}
+		.number {mso-number-format:"@"}
+		*{
+			color:black;
+			font-family:돋움, monospace;
+			font-size:10.0pt;
+		}
+		td  {mso-number-format:\@;}
+		-->
+		</style>
+		
+				<table width='100%' border='1' bordercolor='#dedede' cellpadding='0' cellspacing='0'>
+				<thead>
+				<tr align='center'>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>번호</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>상품코드</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>상품명(옵션명)</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>제조사</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>링크</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>수량</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>단가</td>
+					<td style='background:#FFCC99;font-size:9pt' nowrap>합계금액</td>
+				</tr>
+		</thead>
+		
+		<tbody>
+
+		
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>1</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>7232047</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>CL21A475KPFNNNE</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>Samsung Electro-Mechanics</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=7232047</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>2</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>170</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>340</td>
+						</tr>
+
+				
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>2</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>7218532</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>CL21B105KOFNNNG</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>Samsung Electro-Mechanics</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=7218532</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>4</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>170</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>680</td>
+						</tr>
+
+				
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>3</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>8177604</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>RC0805FR-0710KL</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>YAGEO</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=8177604</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>4</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>170</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>680</td>
+						</tr>
+
+				
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>4</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>8222049</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>RMCF0805FT39R0</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>Stackpole Electronics Inc</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=8222049</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>2</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>170</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>340</td>
+						</tr>
+
+				
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>5</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>12465363</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>TLV74318PDBVR</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>Texas Instruments</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=12465363</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>2</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>220</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>440</td>
+						</tr>
+
+				
+					<tr>
+
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>6</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>7230786</td>
+						<td style='font-size:9pt;text-align:left;width:400px' nowrap>CL21B104KBFNNNG</td>
+						<td style='font-size:9pt;text-align:left;width:160px' nowrap>Samsung Electro-Mechanics</td>
+						<td style='font-size:9pt;text-align:center;width:350px' nowrap>http://www.devicemart.co.kr/goods/view?no=7230786</td>
+						
+						<td style='font-size:9pt;text-align:center;width:50px' nowrap>2</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>170</td>
+						<td style='font-size:9pt;text-align:center;width:100px' nowrap>340</td>
+						</tr>
+
+				</tbody>
+</table>
